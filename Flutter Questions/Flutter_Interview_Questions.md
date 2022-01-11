@@ -4,7 +4,13 @@
 <h5>Ans. </h5>
 <hr>
 -->
-<h4>1) What is Flutter? </h4>
+<ol>
+<a href="#1"><li>What is Flutter?</li></a>
+<li> What are the types of widgets in Flutter?</li>
+<li>What is the difference between StateFull Widget and StateLess Widget?</li>
+<li>How to access screen size(aspect ratio) in Flutter?</li>
+</ol>
+<h4 id="1">1) What is Flutter? </h4>
 <h5>Ans. Flutter is cross platform development toolkit by Google, which helps to deploy on multiple platform with single code base and achieve great UI quickly.</h5>
 <hr>
 <h4>2) What are the types of widgets in Flutter? </h4>
