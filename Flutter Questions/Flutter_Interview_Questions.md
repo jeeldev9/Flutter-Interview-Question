@@ -1,1 +1,18 @@
 <h1>Flutter Questions</h1>
+<!--
+<h4>4) </h4>
+<h5>Ans. </h5>
+<hr>
+-->
+<h4>1) What is Flutter? </h4>
+<h5>Ans. Flutter is cross platform development toolkit by Google, which helps to deploy on multiple platform with single code base and achieve great UI quickly.</h5>
+<hr>
+<h4>2) What are the types of widgets in Flutter? </h4>
+<h5>Ans. Mainly, there are two types of widgets, StateFull Widgets and StateLess Widgets.</h5>
+<hr>
+<h4>3)  What is the difference between StateFull Widget and StateLess Widget?</h4>
+<h5>Ans. Statefull widgets holds state of the widget and can be rebuilt when state changes. Whereas, Stateless widgets are builds only when it is created or parent change</h5>
+<hr>
+<h4>4) How to access screen size(aspect ratio) in Flutter?</h4>
+<h5>Ans. We can access screen size and other properties like pixel density, aspect ratio etc with help of MediaQuery. syntax MediaQuery.of(context).size.width.</h5>
+<hr>
