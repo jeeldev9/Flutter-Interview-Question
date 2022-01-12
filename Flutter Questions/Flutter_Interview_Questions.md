@@ -9,6 +9,7 @@
 <a href="#2"><li> What are the types of widgets in Flutter?</li></a>
 <a href="#3"><li>What is the difference between StateFull Widget and StateLess Widget?</li></a>
 <a href="#4"><li>How to access screen size(aspect ratio) in Flutter?</li></a>
+ <a href="#5"><li>What is Dart?</li></a>
 </ol>
 <h4 id="1">1) What is Flutter? </h4>
 <h5>Ans. Flutter is cross platform development toolkit by Google, which helps to deploy on multiple platform with single code base and achieve great UI quickly.</h5>
@@ -21,4 +22,7 @@
 <hr>
 <h4 id="4">4) How to access screen size(aspect ratio) in Flutter?</h4>
 <h5>Ans. We can access screen size and other properties like pixel density, aspect ratio etc with help of MediaQuery. syntax MediaQuery.of(context).size.width.</h5>
+<hr>
+<h4>5) What is Dart?</h4>
+<h5>Ans. Dart is a general-purpose, object-oriented programming language with C-style syntax. It is open-source and developed by Google in 2011. The purpose of Dart programming is to create a frontend user interfaces for the web and mobile apps. It is an important language for creating Flutter apps. The Dart language can be compiled both AOT (Ahead-of-Time) and JIT (Just-in-Time.</h5>
 <hr>
