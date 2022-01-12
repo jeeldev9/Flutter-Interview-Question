@@ -28,17 +28,13 @@
 <h5>Ans. Dart is a general-purpose, object-oriented programming language with C-style syntax. It is open-source and developed by Google in 2011. The purpose of Dart programming is to create a frontend user interfaces for the web and mobile apps. It is an important language for creating Flutter apps. The Dart language can be compiled both AOT (Ahead-of-Time) and JIT (Just-in-Time.</h5>
 <hr>
 <h4 id="6">6) When to use main Axis Alignment and cross Axis Alignment?</h4>
-<h5>Ans. For Row:
-mainAxisAlignment = Horizontal Axis
-crossAxisAlignment = Vertical Axis
-
- <img src="https://camo.githubusercontent.com/113d25fccbd440f005a911122be73937f6fdee5e1997c8bde01e602dc7348203/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f61797048722e706e67"/>
-
-For Column:
-
-mainAxisAlignment = Vertical Axis
-crossAxisAlignment = Horizontal Axis
-
- <img src="https://camo.githubusercontent.com/670c09b227165fd3a83a56863f44d1a3bff5e4b25e7d26a7e9cee628472c22d7/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f65736557462e706e67"/>
-</h5>
+<p dir="auto"><strong>Answer:</strong></p>
+<p dir="auto"><strong>For Row:</strong><br>
+<code>mainAxisAlignment</code> = Horizontal Axis<br>
+<code>crossAxisAlignment</code> = Vertical Axis</p>
+<p dir="auto"><img src="https://camo.githubusercontent.com/113d25fccbd440f005a911122be73937f6fdee5e1997c8bde01e602dc7348203/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f61797048722e706e67" alt="enter image description here" data-canonical-src="https://i.stack.imgur.com/aypHr.png" style="max-width: 100%;"></p>
+<p dir="auto"><strong>For Column:</strong></p>
+<p dir="auto"><code>mainAxisAlignment</code> = Vertical Axis<br>
+<code>crossAxisAlignment</code> = Horizontal Axis</p>
+<p dir="auto"><img src="https://camo.githubusercontent.com/670c09b227165fd3a83a56863f44d1a3bff5e4b25e7d26a7e9cee628472c22d7/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f65736557462e706e67" alt="enter image description here" data-canonical-src="https://i.stack.imgur.com/eseWF.png" style="max-width: 100%;"></p>
 <hr>
