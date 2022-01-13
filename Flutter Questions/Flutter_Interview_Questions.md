@@ -1,6 +1,6 @@
 <h1>Flutter Questions</h1>
 <!--
-<h4>4) </h4>
+<h4 id="">4) </h4>
 <h5>Ans. </h5>
 <hr>
 -->
@@ -11,7 +11,11 @@
 <a href="#4"><li>How to access screen size(aspect ratio) in Flutter?</li></a>
 <a href="#5"><li>What is Dart?</li></a>
  <a href="#6"><li>When to use main Axis Alignment and cross Axis Alignment?</li></a>
+ <a href="#7"><li>What are the best editors for Flutter development?</li></a>
+ <a href="#8"><li>What is pubspec.yaml file?</li></a>
 </ol>
+
+<!--Question And Answer Start-->
 <h4 id="1">1) What is Flutter? </h4>
 <h5>Ans. Flutter is cross platform development toolkit by Google, which helps to deploy on multiple platform with single code base and achieve great UI quickly.</h5>
 <hr>
@@ -37,4 +41,21 @@
 <p dir="auto"><code>mainAxisAlignment</code> = Vertical Axis<br>
 <code>crossAxisAlignment</code> = Horizontal Axis</p>
 <p dir="auto"><img src="https://camo.githubusercontent.com/670c09b227165fd3a83a56863f44d1a3bff5e4b25e7d26a7e9cee628472c22d7/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f65736557462e706e67" alt="enter image description here" data-canonical-src="https://i.stack.imgur.com/eseWF.png" style="max-width: 100%;"></p>
+<hr>
+<h4 id="7">7) What are the best editors for Flutter development?</h4>
+<h5>Ans. The Flutter development tools allow to make Flutter development faster and thus boosting the developer's workflow. Flutter IDE and tools need some plugins to develop mobile applications. The plugins help us to dart compiling, code analysis, and Flutter development. The popular IDE for Flutter developments are as follows:\n
+<ul>
+<li>Android Studio</li>
+<li>Visual Studio</li>
+<li>IntelliJ IDEA</li>
+<li>Xcode</li></ul></h5>
+<hr>
+<h4 id="8">8) What is pubspec.yaml file?</h4>
+<h5>Ans. It is the project's configuration file that will use a lot during working with the Flutter project. It allows you how your application works. It also allows us to set the constraints for the app. This file contains:<br/>
+<ul>
+<li>Project general settings such as name, description, and version of the project.</li>
+<li>Project dependencies.</li>
+<li>Project assets (e.g., images, audio, etc.).</li>
+</ul>
+</h5>
 <hr>
