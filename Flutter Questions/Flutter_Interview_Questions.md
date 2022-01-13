@@ -43,7 +43,7 @@
 <p dir="auto"><img src="https://camo.githubusercontent.com/670c09b227165fd3a83a56863f44d1a3bff5e4b25e7d26a7e9cee628472c22d7/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f65736557462e706e67" alt="enter image description here" data-canonical-src="https://i.stack.imgur.com/eseWF.png" style="max-width: 100%;"></p>
 <hr>
 <h4 id="7">7) What are the best editors for Flutter development?</h4>
-<h5>Ans. The Flutter development tools allow to make Flutter development faster and thus boosting the developer's workflow. Flutter IDE and tools need some plugins to develop mobile applications. The plugins help us to dart compiling, code analysis, and Flutter development. The popular IDE for Flutter developments are as follows:\n
+<h5>Ans. The Flutter development tools allow to make Flutter development faster and thus boosting the developer's workflow. Flutter IDE and tools need some plugins to develop mobile applications. The plugins help us to dart compiling, code analysis, and Flutter development. The popular IDE for Flutter developments are as follows:
 <ul>
 <li>Android Studio</li>
 <li>Visual Studio</li>
