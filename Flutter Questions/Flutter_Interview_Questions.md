@@ -14,14 +14,15 @@
  <a href="#7"><li>When to use main Axis Alignment and cross Axis Alignment?</li></a>
  <a href="#8"><li>What are the best editors for Flutter development?</li></a>
  <a href="#9"><li>What is pubspec.yaml file?</li></a>
- <a href="#10"><li>What is pubspec.yaml file?</li></a>
+ <a href="#10"><li>What are the advantages of Flutter?</li></a>
+ 
 </ol>
 
 <!--Question And Answer Start-->
 <h4 id="1">1) What is Flutter? </h4>
 <h5>Ans. Flutter is cross platform development toolkit by Google, which helps to deploy on multiple platform with single code base and achieve great UI quickly.</h5>
 <hr>
-<h4 id="2">1) What is Dart? </h4>
+<h4 id="2">2) What is Dart? </h4>
 <h5>Ans. Dart is a general-purpose, object-oriented programming language with C-style syntax. It is open-source and developed by Google in 2011. The purpose of Dart programming is to create a frontend user interfaces for the web and mobile apps. It is an important language for creating Flutter apps. The Dart language can be compiled both AOT (Ahead-of-Time) and JIT (Just-in-Time).</h5>
 <hr>
 <h4 id="3">3) What are the types of widgets in Flutter? </h4>
@@ -62,6 +63,19 @@
 <li>Project general settings such as name, description, and version of the project.</li>
 <li>Project dependencies.</li>
 <li>Project assets (e.g., images, audio, etc.).</li>
+</ul>
+</h5>
+<hr>
+<h4 id="10">10) What are the advantages of Flutter?</h4>
+<h5>Ans.
+<ul>
+<li>Cross-platform Development</li>
+<li>Faster Development</li>
+<li>Good Community</li>
+<li>Live and Hot Reloading</li>
+<li>Minimal code</li>
+<li>UI Focused</li>
+<li>Documentation</li>
 </ul>
 </h5>
 <hr>
